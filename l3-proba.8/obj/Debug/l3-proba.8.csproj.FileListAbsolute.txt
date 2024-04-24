@@ -1,0 +1,7 @@
+D:\Laboratories-Algorithms\l3-proba.8\bin\Debug\l3-proba.8.exe.config
+D:\Laboratories-Algorithms\l3-proba.8\bin\Debug\l3-proba.8.exe
+D:\Laboratories-Algorithms\l3-proba.8\bin\Debug\l3-proba.8.pdb
+D:\Laboratories-Algorithms\l3-proba.8\obj\Debug\l3-proba.8.csproj.AssemblyReference.cache
+D:\Laboratories-Algorithms\l3-proba.8\obj\Debug\l3-proba.8.csproj.CoreCompileInputs.cache
+D:\Laboratories-Algorithms\l3-proba.8\obj\Debug\l3-proba.8.exe
+D:\Laboratories-Algorithms\l3-proba.8\obj\Debug\l3-proba.8.pdb
